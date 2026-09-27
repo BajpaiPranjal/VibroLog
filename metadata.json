@@ -1,0 +1,6 @@
+{
+  "name": "VibroLog",
+  "description": "Vibration intensity measurement, real-time waveform visualization, background recording while locked, and CSV log export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
